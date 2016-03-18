@@ -4,8 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Is it working with github?");
-		System.out.println("Test 1");
-		System.out.println("Test 2");
+		System.out.println("Test 3");
 	}
 
 }
